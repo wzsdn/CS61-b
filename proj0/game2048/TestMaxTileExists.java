@@ -52,6 +52,7 @@ public class TestMaxTileExists {
                 {2, 2, 2, 2048},
         };
 
+
         b = new Board(rawVals, 0);
 
         assertTrue("One 2048 tile on board\n" + b,
